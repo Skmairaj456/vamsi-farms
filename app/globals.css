@@ -61,3 +61,18 @@ html, body {
 html {
   scroll-behavior: smooth;
 }
+
+/* Professional navbar enhancements */
+nav {
+  position: relative;
+}
+
+nav::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(46, 125, 50, 0.1), transparent);
+}
