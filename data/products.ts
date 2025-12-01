@@ -175,7 +175,7 @@ export const products: Product[] = [
       'Use in curries and gravies',
       'Add to rice dishes',
       'Season vegetables and dals',
-      'Marinate meats and vegetables'
+      'Marinate vegetables and tofu'
     ],
   },
   {

@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Vamsi.Farms - Premium Organic Meat & Farm Products',
-  description: 'Premium organic meat, eggs, and farm products with farm-to-table tracking, freshness-based delivery, and daily hygiene scores',
+  title: 'Vamsi.Farms - Premium Organic Farm Products',
+  description: 'Premium organic eggs and farm products with farm-to-table tracking, freshness-based delivery, and daily hygiene scores',
 }
 
 export default function RootLayout({

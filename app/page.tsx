@@ -21,7 +21,7 @@ export default function Home() {
             <span className="text-xs sm:text-sm font-semibold text-white/90">🚀 Premium E-Commerce Platform</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight text-balance px-2">
-            Premium Organic Meat & Farm Products<br className="hidden sm:block" /> <span className="sm:hidden"> </span>Delivered to Your Door
+            Premium Organic Farm Products<br className="hidden sm:block" /> <span className="sm:hidden"> </span>Delivered to Your Door
           </h1>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-8 sm:mb-10 text-green-50 max-w-3xl mx-auto leading-relaxed px-2">
             Fast, modern, and trust-focused e-commerce platform. Farm-to-table tracking, freshness-based delivery slots, and real-time transparency.
@@ -68,7 +68,7 @@ export default function Home() {
               Today's Harvest
             </h2>
             <p className="text-lg text-neutral-grey max-w-2xl mx-auto">
-              Fresh organic meat, eggs, and farm products harvested today. Real-time stock updates with batch transparency.
+              Fresh organic eggs and farm products harvested today. Real-time stock updates with batch transparency.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">

@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="sm:col-span-2">
             <h3 className="text-2xl sm:text-3xl font-bold text-primary-green mb-3 sm:mb-4">Vamsi.Farms</h3>
             <p className="text-sm sm:text-base text-neutral-grey mb-4 sm:mb-6 leading-relaxed max-w-md">
-              Premium organic meat, eggs, and farm products with farm-to-table tracking, freshness-based delivery, and daily hygiene scores. Fast, modern, and trust-focused.
+              Premium organic eggs and farm products with farm-to-table tracking, freshness-based delivery, and daily hygiene scores. Fast, modern, and trust-focused.
             </p>
             <div className="flex gap-3 sm:gap-4">
               <a href="#" className="w-10 h-10 bg-white/10 hover:bg-primary-green rounded-full flex items-center justify-center transition-colors">
